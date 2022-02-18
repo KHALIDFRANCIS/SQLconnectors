@@ -45,15 +45,11 @@ public class JavaJDBC {
 			System.out.println(e);
 //			}finally {
 				System.out.println("Table successfully completed");
-				}
-		
+				}	
 	}
 	
 	public static void updateTable() throws Exception{
-		
-//		
-//		 
-		
+
 		final String var1 = "F1 2021";
 		final int var2 = 2021;
 		final String var3 = "E";
